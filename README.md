@@ -30,7 +30,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#building">Building</a></li>
+        <li><a href="#compiling-from-source">Compiling from source</a></li>
         <li><a href="#connecting-with-your-project">Connecting with your project</a></li>
       </ul>
     </li>
@@ -61,6 +61,10 @@ Features:
 * [![CMake][cmake]][cmake-url]
 * [![SFML][sfml]][sfml-url]
 
+### Demo projects
+
+* [Rendering demo](https://github.com/duckmaniac/simple-renderer): simple 3D-mesh rendering
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -75,7 +79,7 @@ Before starting your game development adventure, be certain to:
 * You have a CMake to build a project.
 * SFML 2.6.0 library is set up and ready.
 
-### Building
+### Compiling from source
 
 1. Clone the repo
    ```sh
