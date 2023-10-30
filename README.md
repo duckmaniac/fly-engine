@@ -103,7 +103,7 @@ Before starting your game development adventure, be certain to:
 
 
 
-### Connecting-with-your-project
+### Connecting with your project
 
 1. Connect SFML library
    ```cmake
